@@ -31,7 +31,5 @@ A simple web application to convert currencies in real-time using the [Fawaz Ahm
 
 ## Installation & Setup
 
-1. Clone this repository:
+1. Clone this repository:https://github.com/Akashs-777/Currency-Exchanger.git
 
-```bash
-git clone https://github.com/yourusername/currency-converter.git
